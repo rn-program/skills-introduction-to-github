@@ -1,16 +1,21 @@
-# Introduction to GitHub
-
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey @rn-program!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/rn-program/skills-introduction-to-github/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>高槻中学校について</title>
+</head>
+<body>
+    <header>
+        <p>以下のリンクは、高槻中学校中学3年生が実際に情報の授業の際に使用している、ひよこタイピングというアプリのurlです。</p>
+        <a href="https://typing.twi1.me/training">ひよこタイピング</a>
+    </header>
+    <h1><span style="color:red">ようこそ!!</span>高槻中学校へ</h1>
+    <h2>学校紹介</h2>
+    <p>これは本校校長の<span style="color:red">工藤剛</span>氏の写真です。</p>
+    <img src="工藤剛.png" alt="工藤剛の写真" width=500px>
+    <p>学校活動に熱心であり、特に英語教育に至っては、世界有数の難易度を誇る大学である<span style="color:green">ケンブリッジ大学</span>と提携を行っています。</p>
+    <footer>
+        <a href="https://www.takatsuki.ed.jp/">高槻中学校の本物のwebサイト</a>
+    </footer>
+</body>
+</html>
